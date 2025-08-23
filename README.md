@@ -1,1 +1,0 @@
-# com.surokkhanet.child2
